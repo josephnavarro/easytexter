@@ -13,5 +13,5 @@ EasyTexter is a GUI application for texting from your PC.
 
 ### Phone
 <p align="center">
-<img src="examples/EasyTexter.gif" alt="output-1">
+<img src="examples/EasyTexter.gif" alt="preview-phone" width="60%" height="60%">
 </p>
